@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\bin\Debug\netcoreapp3.1\CriançaEducada.exe
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\bin\Debug\netcoreapp3.1\CriançaEducada.deps.json
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\bin\Debug\netcoreapp3.1\CriançaEducada.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\bin\Debug\netcoreapp3.1\CriançaEducada.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\bin\Debug\netcoreapp3.1\CriançaEducada.dll
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\bin\Debug\netcoreapp3.1\CriançaEducada.pdb
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\obj\Debug\netcoreapp3.1\CriançaEducada.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\obj\Debug\netcoreapp3.1\CriançaEducada.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\obj\Debug\netcoreapp3.1\CriançaEducada.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\obj\Debug\netcoreapp3.1\CriançaEducada.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\obj\Debug\netcoreapp3.1\CriançaEducada.dll
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\obj\Debug\netcoreapp3.1\CriançaEducada.pdb
+C:\Users\Max Leonel\Desktop\CriançaEducada\CriançaEducada\obj\Debug\netcoreapp3.1\CriançaEducada.genruntimeconfig.cache
